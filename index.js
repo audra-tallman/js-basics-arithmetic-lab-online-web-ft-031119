@@ -4,4 +4,4 @@ const var2 = 2;
 const mulitple = var1 * var2;
 const random = Math.random();
 const mod = 20 % 4; 
-const max Math.max(5, 10, 15, 20);
+const max = Math.max(5, 10, 15, 20);
